@@ -10,6 +10,7 @@ An interactive Power BI Dashboard developed to analyze workforce demographics, s
 ## 📁 Files in this Repository
 * `EMPL DASHBOARD PBi Project P2 by Fehm .pbix` - Interactive Power BI Dashboard file.
 * `Power BI Prj 5k dataset Complete_Employee_Dashboard.xlsx` - Complete dataset used for this project.
+* `Power BI Project Lt Background.jpg` - Dashboard background image.
 
 ## 🛠️ Tools Used
 * **Power BI Desktop** - For Data Modeling, DAX calculations, and Visualization.
